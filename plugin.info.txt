@@ -1,0 +1,7 @@
+base   rst
+author Chris Green
+email  chris@isbd.co.uk
+date   2015-10-07
+name   RestructuredText plugin
+desc   Parses RestructuredText blocks.
+url    http://www.dokuwiki.org/plugin:rst
